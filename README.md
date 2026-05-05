@@ -21,10 +21,10 @@ Desenvolvedores iniciantes têm dificuldade em explicar problemas técnicos e re
 
 git clone https://github.com/giovannacosta7792-collab/DevMentor-Live
 
-Abra a pasta do projeto
-Abra no Android Studio
-Espere carregar o Gradle
-Rode no emulador ou celular (botão ▶ Run)
+-Abra a pasta do projeto
+-Abra no Android Studio
+-Espere carregar o Gradle
+-Rode no emulador ou celular (botão ▶ Run)
 
 
 ## 📸 Capturas de Tela
