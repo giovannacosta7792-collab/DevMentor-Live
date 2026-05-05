@@ -19,8 +19,12 @@ Desenvolvedores iniciantes têm dificuldade em explicar problemas técnicos e re
 
 ## ▶️ Como instalar
 
-[```bash
-git clone https://manus.im/app/82lYRi8FomdaqvVRcnbhIU?adgroupid=197292501788&adid=&cid=7296735399&creative=784509224576&device=c&devicemodel=&gad_campaignid=23266830180&gad_source=1&gbraid=0AAAABB8nEWNDz9cEWF85TuFNU7EvJsv40&gbraid=0AAAABB8nEWNDz9cEWF85TuFNU7EvJsv40&gclid=EAIaIQobChMIqKGo39-glAMVYGJIAB2M_DBVEAAYASAAEgLuKfD_BwE&gclid=EAIaIQobChMIqKGo39-glAMVYGJIAB2M_DBVEAAYASAAEgLuKfD_BwE&matchtype=e&network=g&placement=&utm_campaign=23266830180&utm_content=197292501788&utm_medium=&utm_source=google&utm_term=manus+ai&wbraid=CkEKCQjw5NvPBhDmARIwAPpXf3o7kZHuG1O8uw5EcBMxP0mM8Zb_UPC36oglukJKrwlKG6YmvlN5aJ2JUF4MGgJ8fg
+git clone https://github.com/giovannacosta7792-collab/DevMentor-Live
+
+Abra a pasta do projeto
+Abra no Android Studio
+Espere carregar o Gradle
+Rode no emulador ou celular (botão ▶ Run)
 
 
 ## 📸 Capturas de Tela
